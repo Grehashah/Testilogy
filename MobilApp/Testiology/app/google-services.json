@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342768333215",
+    "firebase_url": "https://testiology-437cd.firebaseio.com",
+    "project_id": "testiology-437cd",
+    "storage_bucket": "testiology-437cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342768333215:android:696ca95afb66062cefcdaa",
+        "android_client_info": {
+          "package_name": "com.example.testiology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342768333215-igri8mse7abtmbjeivbup0ti9n9gsc9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testiology",
+            "certificate_hash": "faa740f60f4de24febc8eace0285485ad6864389"
+          }
+        },
+        {
+          "client_id": "342768333215-q2fdtnnbgmiogrcgran1ijsnh8t87voq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl1XBSujxCT8SEk4iXYzB_aRdajHDPkv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342768333215-q2fdtnnbgmiogrcgran1ijsnh8t87voq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

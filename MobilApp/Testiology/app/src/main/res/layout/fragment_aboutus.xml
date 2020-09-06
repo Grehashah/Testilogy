@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="83dp"
+                android:gravity="center"
+                android:text="About Us"
+                android:textColor="#000"
+                android:textSize="30dp" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="556dp"
+                android:gravity="center"
+                android:text="Our system is providing a service related to online examination.Users visit through our android app and participate in examination. Every user is given a QR Code and they have to scan this QR Code after scanning this the examination will be started. The questions of examination will be displayed through the website which is used by admin of the app.The options related to that question will be displayed on the user's mobile screen.Every question has a time limit after the time is over the question is changed by the admin and according to that the options in the user's mobile screen will be changed.After the examination is over the result is generated. Every user has a view of of their result and an answer key too.This way our site and android app will work together in a synchronize manner."
+                android:textColor="#000"
+                android:textSize="20dp" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>
